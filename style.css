@@ -1,0 +1,59 @@
+body{
+    /* background-color: antiquewhite; */
+}
+.first_div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(212, 208, 208);
+    background-color:white;
+
+
+}
+.card-img-top{
+    border-radius: 5px;
+}
+.div1{
+    
+    text-align: center;
+    width: 70%;
+    border: none;
+   }
+.d-flex{
+    
+}
+.col{
+    background-color:white;
+    text-align: left;
+    padding: 2%;
+}
+.log{
+    width: 60px;
+   
+}
+#log2{
+    width: 90%;
+    margin: 5%;
+
+}
+.carousel{
+    
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+.row1{
+    /* width: 100%; */
+    gap: 2%;
+    word-wrap: break-word;
+    background-color: azure;
+
+}
+.col{
+    width:33%;
+    
+    border: 1px solid black;
+    border-radius: 3px;
+}
